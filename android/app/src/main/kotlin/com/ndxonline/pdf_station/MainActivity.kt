@@ -1,4 +1,4 @@
-package com.ndonline.pdf_station
+package com.ndoxnline.pdf_station
 
 import io.flutter.embedding.android.FlutterActivity
 
